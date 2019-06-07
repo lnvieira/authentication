@@ -1,0 +1,36 @@
+!.mvn/wrapper/maven-wrapper.jar
+
+
+### STS ###
+**/.apt_generated
+**/.classpath
+**/.factorypath
+**/target/
+**/.project
+**/.settings
+**.attach_**
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+/target/
+/tmp.build.**
+!.mvn/wrapper/maven-wrapper.jar
+
+.java-version
+**/.flattened-pom.xml
+**/hs_err*
+MakeUtils
